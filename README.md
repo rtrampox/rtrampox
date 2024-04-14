@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rtrampox
-- 👀 I’m interested in ...
+- 👀 I’m interested in Docker, API Development and Cloud Computing
 - 🌱 I’m currently learning JavaScript and TypeScript for APIs!
 - 📫 How to reach me Discord: @rtrampox
 - 😄 Pronouns: He/Him
