@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isaque!
-- 👀 I’m interested in Docker, API Development and Cloud Computing
-- 🌱 I’m currently learning JavaScript and TypeScript!
+- 👀 I’m interested in Docker, and Cloud Computing
+- 🌱 I’m currently Golang!
 - 📫 How to reach me: Discord - @rtrampox
 - 😄 Pronouns: He/Him
 
