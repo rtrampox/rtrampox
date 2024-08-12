@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isaque!
 - 👀 I’m interested in Docker, and Cloud Computing
-- 🌱 I’m currently Golang!
+- 🌱 I’m currently learning Golang!
 - 📫 How to reach me: Discord - @rtrampox
 - 😄 Pronouns: He/Him
 
