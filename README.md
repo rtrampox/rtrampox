@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isaque!
 - 👀 I’m interested in Docker, and Cloud Computing
-- 🌱 I’m currently learning Golang!
+- 🌱 I’m currently learning Rust!
 - 📫 How to reach me: <a href="emailto:eu@rtrampox.com.br">
 eu@rtrampox.com.br </a>
 - 😄 Pronouns: He/Him
