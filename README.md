@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Isaque!
 - 👀 I’m interested in Docker, and Cloud Computing
 - 🌱 I’m currently learning Rust!
-- 📫 How to reach me: <a href="emailto:rtrampox@icloud.com">
-eu@rtrampox.com.br </a>
+- 📫 How to reach me: <a href="emailto:rtrampox@icloud.com">rtrampox@icloud.com</a>
 - 😄 Pronouns: He/Him
 
 <div>
